@@ -1,0 +1,4 @@
+Hello, My name is Muhammad Arham Siddiqui Iam first of all an acca student who is passionate to learn python language and wanted to become an artificial intelligence enginner. Yeah I know it may sound uncanny that 
+why on earth a business student is here and changing  his/her career path. I always belived in the phenomena of 'change and adaption'. I have realised the tech industry is rapidly growing and AI is becoming more and 
+more useful. I am very much intrigued by coding and AI , I started learning it by my self, Yes I prefer to self study. So now iam not enroll with any institute that teaching me python, Anything that I have learned so far 
+is with the help of internet. Chat gpt and youtube played a vital role in making me able to comprehend basics of python, Iam looking forward to master this language and offer my services. I still have alot to learn!. 
