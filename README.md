@@ -1,1 +1,7 @@
-Hello, my name is Muhammad Arham Siddiqui. I was an ACCA student with a strong passion for learning Python and pursuing a career in artificial intelligence. Despite my background in business, I am drawn to the rapidly growing tech industry and the immense potential of AI. I have taken the initiative to self-study Python, utilizing resources such as ChatGPT and YouTube to grasp the fundamentals. While I am not currently enrolled in any formal institution, I am dedicated to mastering the language and expanding my skills in AI. My GitHub profile reflects my ongoing journey of learning and experimentation in Python and AI-related projects. I am eager to contribute to the field of artificial intelligence and am committed to continuous learning and professional growth.
+Hi there! I'm Muhammad Arham Siddiqui, and I'm passionate about Python, web development, and artificial intelligence. Coming from a business background, I've found a new excitement in the tech world, where I see endless possibilities.
+
+I've recently completed my journey of learning Python and have been diving into backend development using Django. You can check out my GitHub to see some of the projects I've been working on—it's a reflection of my dedication to continuous learning and innovation.
+
+Right now, my goal is to land a job in backend web development. But I'm also fascinated by machine learning and plan to keep learning more about it while working in tech. I believe that my analytical skills and business experience give me a unique edge in solving problems and driving progress in technology.
+
+I'm excited about the future and eager to bring my skills and enthusiasm to a great team. Let's connect and see how we can work together to make an impact!
